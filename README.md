@@ -1,3 +1,4 @@
 # Vladimirtattybayev.com
-Personal Portfolio Website
+Personal Portfolio Website.
+
 Redesign coming soon. 
